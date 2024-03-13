@@ -26,7 +26,7 @@ was developed using Java/JDBC.
 
 ## Quick Demos
 
-Loginning in 
+Login
 
 ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJsb2dwendtbDBoN3AyZzVtZ3N2ZmVpYXQ2ODU0MTYzZXJzazhiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NUDjq106NVthrWvOFq/giphy.gif)
 
